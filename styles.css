@@ -303,7 +303,7 @@ nav a:hover {
   justify-content: center;
   align-items: center;
   min-height: 350px;
-  margin-top: 40px;
+  margin-top: 90px;
 }
 
 /* Círculo decorativo de fondo */
@@ -321,7 +321,6 @@ nav a:hover {
   position: relative;
   width: min(100%, 430px);
   filter: drop-shadow(0 18px 16px #063b4c20);
-  padding-bottom: 90px; 
 }
 
 /* Tarjeta flotante sobre la imagen */
